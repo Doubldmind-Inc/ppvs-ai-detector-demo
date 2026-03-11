@@ -1,0 +1,5 @@
+{
+  "name": "快刀中英文AI文章辨識系統",
+  "description": "基於統計學與語言模式分析的 AI 內容檢測工具，無需 API 金鑰即可運作。",
+  "requestFramePermissions": []
+}
