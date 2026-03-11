@@ -4,7 +4,7 @@
 
 > **智慧創新大賽參賽作品** — [Best AI Awards 2025](https://www.bestaiawards.com.tw/)
 
-線上體驗：[https://ai.ppvs.org/](https://ai.ppvs.org/)
+線上體驗：[https://checkgpt.ppvs.org/](https://checkgpt.ppvs.org/)
 
 ## 產品簡介（教學展示版）
 
@@ -78,7 +78,7 @@ npm run build
 
 **雲書苑教育科技有限公司**
 
-- 官網：[ai.ppvs.org](https://ai.ppvs.org/)
+- 官網：[checkgpt.ppvs.org](https://checkgpt.ppvs.org/)
 - Email：talk@ppvs.org
 - 電話：(02) 2823-0833
 - LINE 諮詢：@ppvs
