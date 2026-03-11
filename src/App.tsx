@@ -83,7 +83,7 @@ export default function App() {
             <img src="/logo.png" alt="快刀中英文AI文章辨識系統" className="h-20 w-auto" />
           </div>
           <div className="flex items-center gap-4">
-            <a href="https://ai.ppvs.org/" target="_blank" rel="noopener noreferrer" className="hidden md:flex items-center gap-2 text-sm font-bold text-white bg-[#fd373b] hover:bg-[#e02f33] px-6 py-2.5 rounded-full transition-colors shadow-sm">
+            <a href="https://checkgpt.ppvs.org/" target="_blank" rel="noopener noreferrer" className="hidden md:flex items-center gap-2 text-sm font-bold text-white bg-[#fd373b] hover:bg-[#e02f33] px-6 py-2.5 rounded-full transition-colors shadow-sm">
               即刻辨識
               <ChevronRight size={14} />
             </a>
@@ -344,8 +344,8 @@ export default function App() {
             {/* Logo */}
             <div>
               <img src="/logo.png" alt="快刀中英文AI文章辨識系統" className="h-16 w-auto mb-3" />
-              <a href="https://ai.ppvs.org/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5 text-sm font-semibold text-[#fd373b] hover:underline mb-4">
-                ai.ppvs.org
+              <a href="https://checkgpt.ppvs.org/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5 text-sm font-semibold text-[#fd373b] hover:underline mb-4">
+                checkgpt.ppvs.org
                 <ChevronRight size={14} />
               </a>
               <p className="text-sm text-slate-400 leading-relaxed">採用快刀專利核心技術，透過文本語言特徵分析，精準辨識 GPT-5、Gemini 3、Claude 3 等主流 AI 模型生成內容及翻譯工具產出，提供全方位文本來源辨識服務。</p>
@@ -355,9 +355,9 @@ export default function App() {
             <div>
               <h5 className="text-sm font-bold text-slate-700 mb-4">聯絡資訊</h5>
               <div className="space-y-3 text-sm text-slate-500">
-                <a href="https://ai.ppvs.org/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#fd373b] transition-colors">
+                <a href="https://checkgpt.ppvs.org/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-[#fd373b] transition-colors">
                   <span className="w-8 h-8 rounded-lg bg-slate-100 flex items-center justify-center text-base shrink-0">🌎</span>
-                  ai.ppvs.org
+                  checkgpt.ppvs.org
                 </a>
                 <a href="mailto:talk@ppvs.org" className="flex items-center gap-3 hover:text-[#fd373b] transition-colors">
                   <span className="w-8 h-8 rounded-lg bg-slate-100 flex items-center justify-center text-base shrink-0">✉️</span>
